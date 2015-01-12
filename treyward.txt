@@ -1,1 +1,2 @@
 Name: Trey Ward
+Expectation: Gain a better understanding of code 
