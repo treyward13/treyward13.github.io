@@ -1,2 +1,3 @@
 Name: Trey Ward
 Expectation: Gain a better understanding of code 
+Occupation: CEO of OneLight Labs (Salesforce Consulting)
